@@ -1,6 +1,1 @@
-echo "# repoku" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ifanaries/repoku.git
-git push -u origin master
+selamat datang di repoku
